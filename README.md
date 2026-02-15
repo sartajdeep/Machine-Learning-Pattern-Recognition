@@ -30,6 +30,6 @@
     <p>Generated a scatter plot using <i>AnnotationBbox</i> that overlays the actual face images onto their respective coordinates in the Hue-Saturation feature space for intuitive cluster verification.</p>
 
 </body>
-IMAGES: <img src=""C:\Users\Sartajdeep Singh\OneDrive\Desktop\MLPR_2026\lab5\output1.png"" alt="Description of the image">
+IMAGES: <img src="output1.png" alt="Description of the image">
 
 </html>
