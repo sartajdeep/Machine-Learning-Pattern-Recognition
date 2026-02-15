@@ -30,6 +30,10 @@
     <p>Generated a scatter plot using <i>AnnotationBbox</i> that overlays the actual face images onto their respective coordinates in the Hue-Saturation feature space for intuitive cluster verification.</p>
 
 </body>
-IMAGES: <img src="output1.png" alt="Description of the image">
+IMAGES: <img src="output1.png" alt="K (2) means clustering of Images">
+<img src="output2.png" alt="Cluster Scatter Plot">
+<img src="output3.png" alt="Template Classification via k means">
+<img src="output4.png" alt="Final Classification plot">
+
 
 </html>
