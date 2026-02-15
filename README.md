@@ -20,7 +20,10 @@
    <h3>Conclusion</h3>
     <p>The lab successfully demonstrated that unsupervised learning, specifically K-Means clustering, is an effective way to categorize visual data without predefined labels. It highlighted that the choice of distance metrics and the proper balance of bias and variance are critical for building generalized machine learning models. Additionally, the role of <b>cross-validation</b> was established as a vital step in ensuring a model performs accurately on new, unseen data.</p>
 
-IMAGES: <img src="output1.png" alt="K (2) means clustering of Images">
+IMAGES: 
+<img src="Total number of face detected are 30.png" alt="Face Detection">
+<img src="Template Face Detection.png" alt="Shashi Tharoor">
+<img src="output1.png" alt="K (2) means clustering of Images">
 <img src="output2.png" alt="Cluster Scatter Plot">
 <img src="output3.png" alt="Template Classification via k means">
 <img src="output4.png" alt="Final Classification plot">
